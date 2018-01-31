@@ -1,0 +1,53 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_Practice", "Method_Practice\Method_Practice.csproj", "{65EA672C-91A4-4401-8F52-AFBB65638E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q01_DisplayMenu", "Q01_DisplayMenu\Q01_DisplayMenu.csproj", "{71072DEC-5579-4B61-B617-10D9E93F69A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q02_Repeat", "Q02_Repeat\Q02_Repeat.csproj", "{462CF286-E768-4AB6-8992-7B2C06633F90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q03_CalculateSum", "Q03_CalculateSum\Q03_CalculateSum.csproj", "{89578700-30F2-4E7E-A7CA-08970910F44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q04_CalculateSumOfSquares", "Q04_CalculateSumOfSquares\Q04_CalculateSumOfSquares.csproj", "{E90B26F9-C14F-4D2D-AEB1-60DCF9253D0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q05_CalculateSumOfCubes", "Q05_CalculateSumOfCubes\Q05_CalculateSumOfCubes.csproj", "{FE24D93C-BB03-40F3-B77B-DFA2F91D698D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q06_CalculateAverage", "Q06_CalculateAverage\Q06_CalculateAverage.csproj", "{B85F3F93-3800-4C56-9528-D015A5FE553A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65EA672C-91A4-4401-8F52-AFBB65638E39}.Debug|x86.ActiveCfg = Debug|x86
+		{65EA672C-91A4-4401-8F52-AFBB65638E39}.Debug|x86.Build.0 = Debug|x86
+		{65EA672C-91A4-4401-8F52-AFBB65638E39}.Release|x86.ActiveCfg = Release|x86
+		{65EA672C-91A4-4401-8F52-AFBB65638E39}.Release|x86.Build.0 = Release|x86
+		{71072DEC-5579-4B61-B617-10D9E93F69A7}.Debug|x86.ActiveCfg = Debug|x86
+		{71072DEC-5579-4B61-B617-10D9E93F69A7}.Debug|x86.Build.0 = Debug|x86
+		{71072DEC-5579-4B61-B617-10D9E93F69A7}.Release|x86.ActiveCfg = Release|x86
+		{71072DEC-5579-4B61-B617-10D9E93F69A7}.Release|x86.Build.0 = Release|x86
+		{462CF286-E768-4AB6-8992-7B2C06633F90}.Debug|x86.ActiveCfg = Debug|x86
+		{462CF286-E768-4AB6-8992-7B2C06633F90}.Debug|x86.Build.0 = Debug|x86
+		{462CF286-E768-4AB6-8992-7B2C06633F90}.Release|x86.ActiveCfg = Release|x86
+		{462CF286-E768-4AB6-8992-7B2C06633F90}.Release|x86.Build.0 = Release|x86
+		{89578700-30F2-4E7E-A7CA-08970910F44D}.Debug|x86.ActiveCfg = Debug|x86
+		{89578700-30F2-4E7E-A7CA-08970910F44D}.Debug|x86.Build.0 = Debug|x86
+		{89578700-30F2-4E7E-A7CA-08970910F44D}.Release|x86.ActiveCfg = Release|x86
+		{89578700-30F2-4E7E-A7CA-08970910F44D}.Release|x86.Build.0 = Release|x86
+		{E90B26F9-C14F-4D2D-AEB1-60DCF9253D0E}.Debug|x86.ActiveCfg = Debug|x86
+		{E90B26F9-C14F-4D2D-AEB1-60DCF9253D0E}.Debug|x86.Build.0 = Debug|x86
+		{E90B26F9-C14F-4D2D-AEB1-60DCF9253D0E}.Release|x86.ActiveCfg = Release|x86
+		{E90B26F9-C14F-4D2D-AEB1-60DCF9253D0E}.Release|x86.Build.0 = Release|x86
+		{FE24D93C-BB03-40F3-B77B-DFA2F91D698D}.Debug|x86.ActiveCfg = Debug|x86
+		{FE24D93C-BB03-40F3-B77B-DFA2F91D698D}.Debug|x86.Build.0 = Debug|x86
+		{FE24D93C-BB03-40F3-B77B-DFA2F91D698D}.Release|x86.ActiveCfg = Release|x86
+		{FE24D93C-BB03-40F3-B77B-DFA2F91D698D}.Release|x86.Build.0 = Release|x86
+		{B85F3F93-3800-4C56-9528-D015A5FE553A}.Debug|x86.ActiveCfg = Debug|x86
+		{B85F3F93-3800-4C56-9528-D015A5FE553A}.Debug|x86.Build.0 = Debug|x86
+		{B85F3F93-3800-4C56-9528-D015A5FE553A}.Release|x86.ActiveCfg = Release|x86
+		{B85F3F93-3800-4C56-9528-D015A5FE553A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

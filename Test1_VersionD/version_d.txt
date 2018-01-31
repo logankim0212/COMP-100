@@ -1,0 +1,125 @@
+/*
+ * =========================      Test #1 Fall 2017      =================
+ * 
+ * Name: Logan Kim
+ * Student ID: 300973239
+ *
+ * Question 1d.
+ * 10 Marks.
+ *
+ * Write a program that displays your name, student number and your 
+ * program. Although your information will be different from the sample 
+ * output, you must match the format exactly.
+ * 
+ * [Solution: Question1D]
+ */
+
+
+/*
+ * =========================      Test #1 Fall 2017      =================
+ * 
+ * Name: Logan Kim
+ * Student ID: 300973239
+ *
+ * Question 2d.
+ * 12 Marks.
+ *
+ * Write a program that prompts the user for a company name and his annual
+ * salary.The  program displays the name of the company and the monthly 
+ * salary. You must match the  format exactly.
+ * 
+ * Hint: monthly salary is annual salary divided by 12
+ * [Solution: Question2D]
+ */
+
+
+/*
+ * =========================      Test #1 Fall 2017      =================
+ * 
+ * Name: Logan Kim
+ * Student ID: 300973239
+ *
+ * Question 3d.
+ * 6 Marks.
+ *
+ * Write a program that prompts the user for a number. The program prints
+ * the number and the letter equivalent. The letter equivalent is obtained
+ * by casting the letter to an int. You must match the format exactly.
+ * 
+ * YOU MUST READ IN THE INPUT AS AN int and you MUST do an explicit cast
+ * [For testing purposes use numbers in the range 48 to 90]
+ * [Solution: Question3D]
+ * [Hint: See Wk03_data_types.pptx slide #6 and #8]
+ */
+
+
+/*
+ * =========================      Test #1 Fall 2017      =================
+ * 
+ * Name: Logan Kim
+ * Student ID: 300973239
+ *
+ * Question 4d.
+ * 14 Marks.
+ *
+ * Canada Computer Store has asked you to write a program that prompts the
+ * user for the device that she would like to pruchase. Based on the 
+ * user's input the program will display the following:
+ * 
+ * Input: tablet
+ * Message: A tablet cost $475.00
+ * 
+ * Input: LAPTOP
+ * Message: A LAPTOP cost $650.00
+ * 
+ * Input: Desktop
+ * Message: A Desktop cost $899.00
+ * 
+ * any other input
+ * Message: I am sorry I don't carry those devices
+ * 
+ * You may use either the ToUpper() or ToLower() methods 
+ * 
+ * You must use a SWITCH statement as the ONLY branching structure to 
+ * solve this problem
+ * [For full marks you need to accept all permutations of tablet, laptop 
+ * and desktop]
+ * 
+ * [Solution: Question4D]
+ */
+
+
+/*
+ * =========================      Test #1 Fall 2017      =================
+ * 
+ * Name: Logan Kim
+ * Student ID: 300973239
+ *
+ * Question 5d.
+ * 12 Marks.
+ *
+ * Canada Computer Store has asked you to write a program that prompts the
+ * user for the device that she would like to pruchase. Based on the user's
+ * input the program will display the following:
+ * 
+ * Input: Tablet
+ * Message: A tablet cost $475.00
+ * 
+ * Input: Laptop
+ * Message: A laptop cost $650.00
+ * 
+ * Input: Desktop
+ * Message: A desktop cost $899.00
+ * 
+ * any other input
+ * Message: I am sorry I don't carry those devices
+ * 
+ * You may use either the ToUpper() or ToLower() methods 
+ * 
+ * You MUST USE A NESTED IF statement to solve this problem
+ * [For full marks you need to accept all permutations of tablet, laptop 
+ * and desktop]
+ * 
+ * [Solution: Question5D]
+ */
+
