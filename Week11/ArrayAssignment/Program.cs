@@ -22,11 +22,11 @@ namespace ArrayAssignment
              * the poem array, then use the Array.Sort() method to sort the poem
              * array and then again call the appropriate method to print it
              */
-            //printStringArray(poem);
-            //Console.WriteLine();
-            //Array.Sort(poem);
-            //printStringArray(poem);
-            //Console.WriteLine();
+            printStringArray(poem);
+            Console.WriteLine();
+            Array.Sort(poem);
+            printStringArray(poem);
+            Console.WriteLine();
             /* 6.   In your main method use the method in question 2 to display
              * the numbers array, then use the Array.Binarysearch() method to
              * try to find the position of 3 in the numbers array. What is your
